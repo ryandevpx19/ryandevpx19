@@ -1,24 +1,16 @@
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://i.pinimg.com/originals/53/40/bd/5340bd78187d42b45963f76d639e2bbf.gif" width="220" height="220" alt="developer" />
-      <br><sub><code>developer</code></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://i.pinimg.com/originals/c1/97/e1/c197e1fc5e0178579c3ef6e98fb33ab1.gif" width="220" height="220" alt="production" />
-      <br><sub><code>production</code></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.tenor.com/Bs79d-zkHuIAAAAM/skeleton-dance.gif" width="220" height="220" alt="npm install" />
-      <br><sub><code>npm install</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><sub>"só uma alteração"</sub></td>
-    <td align="center"><sub>"everything is fine"</sub></td>
-    <td align="center"><sub>847 packages later</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/53/40/bd/5340bd78187d42b45963f76d639e2bbf.gif" width="220" height="220" alt="developer" />
+  &nbsp;&nbsp;
+  <img src="https://i.pinimg.com/originals/c1/97/e1/c197e1fc5e0178579c3ef6e98fb33ab1.gif" width="220" height="220" alt="production" />
+  &nbsp;&nbsp;
+  <img src="https://media.tenor.com/Bs79d-zkHuIAAAAM/skeleton-dance.gif" width="220" height="220" alt="production incident" />
+</p>
+
+<p align="center">
+  <code>developer</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <code>production</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <code>production broke successfully</code>
+</p>
 
 <p align="center"><code>SYSTEM ARCHITECTURE: no tests • no docs • no fear</code></p>
 

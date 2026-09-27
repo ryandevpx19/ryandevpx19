@@ -30,15 +30,16 @@
 <text class="blue mono" x="434" y="184">ryan@github</text><line class="line" x1="555" y1="179" x2="1035" y2="179"/>
 <text class="orange label" x="434" y="215">• Uptime:</text><text class="muted label" x="530" y="215">....................</text><text class="white label" x="760" y="215">23 years</text>
 <text class="orange label" x="434" y="243">• Location:</text><text class="muted label" x="545" y="243">..................</text><text class="white label" x="760" y="243">Brazil</text>
-<text class="orange label" x="434" y="271">• Occupation:</text><text class="muted label" x="560" y="271">...............</text><text class="white label" x="760" y="271">professional fire starter</text>
-<text class="orange label" x="434" y="299">• Stack:</text><text class="muted label" x="515" y="299">.....................</text><text class="white label" x="700" y="299">TS, Node, Laravel, Vue, React</text>
-<text class="orange label" x="434" y="327">• Infra:</text><text class="muted label" x="515" y="327">.....................</text><text class="white label" x="700" y="327">Docker, Linux, MySQL, Redis</text>
-<text class="blue label" x="434" y="365">─ Runtime Diagnostics</text><line class="line" x1="620" y1="360" x2="1035" y2="360"/>
-<text class="orange label" x="434" y="397">• Coffee:</text><text class="green label" x="590" y="397">200 OK</text>
-<text class="orange label" x="720" y="397">• Brain:</text><text class="white label" x="835" y="397">SIGKILL</text>
-<text class="orange label" x="434" y="425">• Production:</text><text class="green label" x="590" y="425">don't ask</text>
-<text class="orange label" x="720" y="425">• Bugs:</text><text class="white label" x="835" y="425">∞</text>
-<text class="muted small" x="434" y="458">last words: "relaxa pae, é só uma alteraçãozinha"</text>
+<text class="orange label" x="434" y="271">• Occupation:</text><text class="muted label" x="560" y="271">............</text><text class="white label" x="720" y="271">Prompt Engineer</text>
+<text class="orange label" x="434" y="299">• Specialization:</text><text class="muted label" x="590" y="299">........</text><text class="white label" x="720" y="299">Vibe Coding</text>
+<text class="orange label" x="434" y="327">• Tools:</text><text class="muted label" x="515" y="327">.....................</text><text class="white label" x="720" y="327">Claude, Codex, Faith +99</text>
+<text class="orange label" x="434" y="355">• Methodology:</text><text class="muted label" x="565" y="355">..........</text><text class="white label" x="720" y="355">prompt → pray → deploy</text>
+<text class="blue label" x="434" y="393">─ Runtime Diagnostics</text><line class="line" x1="620" y1="388" x2="1035" y2="388"/>
+<text class="orange label" x="434" y="425">• Monster Branco:</text><text class="green label" x="590" y="425">200 OK</text>
+<text class="orange label" x="720" y="425">• Brain:</text><text class="white label" x="835" y="425">OVERHEAD</text>
+<text class="orange label" x="434" y="453">• Production:</text><text class="green label" x="590" y="453">ZERO BUGS</text>
+<text class="orange label" x="720" y="453">• Infra:</text><text class="white label" x="835" y="453">died during deploy</text>
+<text class="muted small" x="434" y="486">last words: "but it works on my machine"</text>
 
 <rect class="panel" x="18" y="502" width="1044" height="126"/>
 <text class="green mono" x="26" y="522">+</text><text class="green mono" x="1048" y="522">+</text>
