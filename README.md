@@ -1,16 +1,21 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/53/40/bd/5340bd78187d42b45963f76d639e2bbf.gif" width="220" height="220" alt="developer" />
-  &nbsp;&nbsp;
-  <img src="https://i.pinimg.com/originals/c1/97/e1/c197e1fc5e0178579c3ef6e98fb33ab1.gif" width="220" height="220" alt="production" />
-  &nbsp;&nbsp;
-  <img src="https://media.tenor.com/Bs79d-zkHuIAAAAM/skeleton-dance.gif" width="220" height="220" alt="production incident" />
-</p>
-
-<p align="center">
-  <code>developer</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code>production</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code>production broke successfully</code>
-</p>
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="transparent">
+  <tr bgcolor="transparent">
+    <td align="center" width="33%" valign="middle" bgcolor="transparent">
+      <img src="https://i.pinimg.com/originals/53/40/bd/5340bd78187d42b45963f76d639e2bbf.gif" width="220" height="220" alt="developer" />
+    </td>
+    <td align="center" width="34%" valign="middle" bgcolor="transparent">
+      <img src="https://i.pinimg.com/originals/c1/97/e1/c197e1fc5e0178579c3ef6e98fb33ab1.gif" width="220" height="220" alt="production" />
+    </td>
+    <td align="center" width="33%" valign="middle" bgcolor="transparent">
+      <img src="https://media.tenor.com/Bs79d-zkHuIAAAAM/skeleton-dance.gif" width="220" height="220" alt="production incident" />
+    </td>
+  </tr>
+  <tr bgcolor="transparent">
+    <td align="center" bgcolor="transparent"><code>developer</code></td>
+    <td align="center" bgcolor="transparent"><code>production</code></td>
+    <td align="center" bgcolor="transparent"><code>production broke successfully</code></td>
+  </tr>
+</table>
 
 <p align="center"><code>SYSTEM ARCHITECTURE: no tests • no docs • no fear</code></p>
 
