@@ -30,21 +30,21 @@
 <text class="blue mono" x="434" y="184">ryan@github</text><line class="line" x1="555" y1="179" x2="1035" y2="179"/>
 <text class="orange label" x="434" y="215">• Uptime:</text><text class="muted label" x="530" y="215">....................</text><text class="white label" x="760" y="215">23 years</text>
 <text class="orange label" x="434" y="243">• Location:</text><text class="muted label" x="545" y="243">..................</text><text class="white label" x="760" y="243">Brazil</text>
-<text class="orange label" x="434" y="271">• Occupation:</text><text class="muted label" x="560" y="271">...............</text><text class="white label" x="760" y="271">Full Stack Developer</text>
+<text class="orange label" x="434" y="271">• Occupation:</text><text class="muted label" x="560" y="271">...............</text><text class="white label" x="760" y="271">professional fire starter</text>
 <text class="orange label" x="434" y="299">• Stack:</text><text class="muted label" x="515" y="299">.....................</text><text class="white label" x="700" y="299">TS, Node, Laravel, Vue, React</text>
 <text class="orange label" x="434" y="327">• Infra:</text><text class="muted label" x="515" y="327">.....................</text><text class="white label" x="700" y="327">Docker, Linux, MySQL, Redis</text>
 <text class="blue label" x="434" y="365">─ Runtime Diagnostics</text><line class="line" x1="620" y1="360" x2="1035" y2="360"/>
 <text class="orange label" x="434" y="397">• Coffee:</text><text class="green label" x="590" y="397">200 OK</text>
-<text class="orange label" x="720" y="397">• Brain:</text><text class="white label" x="835" y="397">OOMKilled</text>
-<text class="orange label" x="434" y="425">• Production:</text><text class="green label" x="590" y="425">somehow online</text>
+<text class="orange label" x="720" y="397">• Brain:</text><text class="white label" x="835" y="397">SIGKILL</text>
+<text class="orange label" x="434" y="425">• Production:</text><text class="green label" x="590" y="425">don't ask</text>
 <text class="orange label" x="720" y="425">• Bugs:</text><text class="white label" x="835" y="425">∞</text>
-<text class="muted small" x="434" y="458">last deploy: "só uma alteração rapidinha"</text>
+<text class="muted small" x="434" y="458">last words: "relaxa pae, é só uma alteraçãozinha"</text>
 
 <rect class="panel" x="18" y="502" width="1044" height="126"/>
 <text class="green mono" x="26" y="522">+</text><text class="green mono" x="1048" y="522">+</text>
-<text class="muted mono" x="48" y="545">[ CURRENT SKILL DISTRIBUTION ]</text>
+<text class="muted mono" x="48" y="545">[ VERIFIED ENGINEERING SKILLS ]</text>
 <rect class="barbg" x="48" y="568" width="850" height="12" rx="3"/>
 <rect class="b1" x="48" y="568" width="340" height="12" rx="3"/><rect class="b2" x="388" y="568" width="255" height="12"/><rect class="b3" x="643" y="568" width="170" height="12"/><rect class="b4" x="813" y="568" width="85" height="12" rx="3"/>
-<text class="white small" x="48" y="604">● TypeScript 40%</text><text class="white small" x="245" y="604">● PHP 30%</text><text class="white small" x="410" y="604">● Vue/React 20%</text><text class="white small" x="640" y="604">● divine intervention 10%</text>
+<text class="white small" x="48" y="604">● TypeScript 30%</text><text class="white small" x="245" y="604">● Stack Overflow 25%</text><text class="white small" x="410" y="604">● console.log 20%</text><text class="white small" x="640" y="604">● divine intervention 25%</text>
 <text class="green small" text-anchor="end" x="1030" y="604">exit code: 0</text>
 </svg>
